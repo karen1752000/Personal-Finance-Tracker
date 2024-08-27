@@ -51,20 +51,4 @@ def get_description():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #data_entry file is a place where I can write all of the functions related to getting informantion from the user
